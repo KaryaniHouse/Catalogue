@@ -1,0 +1,1 @@
+positionForPages[30]={"page":30,"positions":[{"word":"Karyani Liscence","left":0.335117,"top":0.033067,"width":0.287238,"height":0.023855}]};

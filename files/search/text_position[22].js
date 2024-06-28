@@ -1,0 +1,1 @@
+positionForPages[22]={"page":22,"positions":[{"word":"Alumnium And Glass","left":0.083043,"top":0.032094,"width":0.331182,"height":0.018793}]};

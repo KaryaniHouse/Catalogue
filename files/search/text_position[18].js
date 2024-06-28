@@ -1,0 +1,1 @@
+positionForPages[18]={"page":18,"positions":[{"word":"Cladding design","left":0.399578,"top":0.022823,"width":0.253952,"height":0.023957}]};

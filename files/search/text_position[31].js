@@ -1,0 +1,1 @@
+positionForPages[31]={"page":31,"positions":[{"word":"Karyani Tax Identification Number","left":0.199640,"top":0.021435,"width":0.570917,"height":0.023855}]};

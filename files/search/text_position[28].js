@@ -1,0 +1,1 @@
+positionForPages[28]={"page":28,"positions":[{"word":"Collection Of previous Work","left":0.165329,"top":0.033122,"width":0.474834,"height":0.023855}]};

@@ -1,0 +1,1 @@
+positionForPages[9]={"page":9,"positions":[{"word":"Construction Process Overview","left":0.054600,"top":0.025309,"width":0.459961,"height":0.018793}]};

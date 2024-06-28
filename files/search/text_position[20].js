@@ -1,0 +1,1 @@
+positionForPages[20]={"page":20,"positions":[{"word":"Interior Design","left":0.071593,"top":0.032365,"width":0.237719,"height":0.024845}]};

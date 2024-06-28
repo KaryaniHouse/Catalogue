@@ -1,0 +1,1 @@
+positionForPages[14]={"page":14,"positions":[{"word":"9 Articles","left":0.807967,"top":0.939203,"width":0.108639,"height":0.013295},{"word":"Internal Structure Repair","left":0.270901,"top":0.025083,"width":0.378793,"height":0.023241}]};

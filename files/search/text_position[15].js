@@ -1,0 +1,1 @@
+positionForPages[15]={"page":15,"positions":[{"word":"External and Internal Repair","left":0.247578,"top":0.040504,"width":0.436751,"height":0.023855}]};

@@ -1,0 +1,1 @@
+positionForPages[24]={"page":24,"positions":[{"word":"Constructions with maintence","left":0.127008,"top":0.032996,"width":0.429034,"height":0.018793}]};
